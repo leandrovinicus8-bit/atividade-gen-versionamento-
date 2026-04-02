@@ -1,0 +1,17 @@
+ID,Data,Categoria,Produto,Quantidade_Vendida,Preco_Unitario,Total_Venda,Hora_Pico
+1,2024-01-01,Pães,Pão Francês,450,0.50,225.00,Manhã
+2,2024-01-01,Confeitaria,Bolo de Cenoura,12,25.00,300.00,Tarde
+3,2024-01-01,Bebidas,Café Expresso,85,6.00,510.00,Manhã
+4,2024-01-01,Salgados,Coxinha,40,8.00,320.00,Tarde
+5,2024-01-02,Pães,Pão de Queijo,120,4.50,540.00,Manhã
+6,2024-01-02,Confeitaria,Sonho,30,7.00,210.00,Tarde
+7,2024-01-02,Bebidas,Suco de Laranja,25,12.00,300.00,Manhã
+8,2024-01-02,Salgados,Enroladinho,35,8.50,297.50,Tarde
+9,2024-01-03,Pães,Pão Francês,480,0.50,240.00,Manhã
+10,2024-01-03,Confeitaria,Torta de Morango,8,45.00,360.00,Tarde
+11,2024-01-03,Bebidas,Café Expresso,95,6.00,570.00,Manhã
+12,2024-01-03,Salgados,Quiche,20,12.00,240.00,Tarde
+13,2024-01-04,Pães,Pão de Queijo,110,4.50,495.00,Manhã
+14,2024-01-04,Confeitaria,Bolo de Fubá,15,20.00,300.00,Tarde
+15,2024-01-04,Bebidas,Chocolate Quente,40,9.00,360.00,Manhã
+16,2024-01-04,Salgados,Coxinha,55,8.00,440.00,Tarde
